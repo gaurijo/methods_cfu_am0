@@ -6,10 +6,12 @@
 # No arguments are passed; upcase has one clear job which is to capitalize all letters that exist in the String
 # The return value is "HI"
 "Hello World".upcase
-
+#The upcase method is called on the string object "Hello World"
+#No arguments are passed; upcase capitilizes the object
+#The return value is HELLO WORLD
 
 "Hello World".include?("Hello")
-
+#
 
 "Hello World".end_with?("Hello")
 
