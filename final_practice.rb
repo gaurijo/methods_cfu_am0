@@ -38,9 +38,16 @@ num .square(num)
 
 
 #4: Write a method named full name that takes in 3 strings, a first, middle, and last name, and print outs the sentence of the entire string
+first = "Mary"
+middle = "Tyler"
+last = "Moore"
+.fullname(first, middle, last)
 
 
 
 # What is the return value of your method?
+#Mary Tyler Moore
 # How many arguments did you pass your method?
+# 3
 # What data type was your argument(s)?
+#string
